@@ -1,0 +1,136 @@
+body{
+	font-family: 'Fjalla One', sans-serif;
+}
+
+/*header{
+	background-size: 100% ;
+	background-repeat: no-repeat;
+	background-position: center top;
+	width: 100%;
+	text-align: center;
+	padding: 25%;
+	font-weight: bold;
+	color: white;
+
+}*/
+
+.textoinicio{
+	position: absolute;
+    width: 100%;
+    text-align: center;
+    font-size: 42px;
+    top: 128px;
+    z-index: 10000;
+    color: white;
+    text-align: center;
+	margin-top: 150px;
+}
+
+label{
+	color: white;
+}
+
+footer{
+	background-image: url('../img/footer01.jpg');
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-position: center top;
+}
+
+form{
+	padding-left: 25px;
+}
+
+div.formulario.col-sm-4 {
+	padding-top: 10%;
+	padding-left: 2%;
+}
+
+section#carrosel {
+	margin-top: 0px;
+}
+
+label.form-check-label{
+	color: #aaa;
+}
+
+.navbar{
+	background-color: rgba(128,128,128, 0.9) !important;
+}
+
+/*#videos{
+	display: flex;
+
+}*/
+
+.imagens{
+	padding-top: 5%;
+	margin-bottom: 5%;
+}
+
+.primeira{
+	background-image: url("../img/primeira.png");
+	background-size: 100%;
+	width: 100%;
+	height: 600px;
+	margin-top: 50px;
+	padding-top: 10%;
+	background-repeat: no-repeat;
+}
+
+
+.nome{
+	padding-top: 100%;
+	text-align: center;
+}
+
+.segunda{
+	background-image: url("../img/segunda.png");
+	background-size: 100%;
+	width: 100%;
+	height: 600px;
+	margin-top: 50px;
+	padding-top: 10%;
+	margin-bottom: 3%;
+}
+
+.terceira{
+	padding-top: 1%;
+	display: flex;
+
+}
+
+.vds{
+	margin-left: 10%;
+}
+
+.vds1{
+	margin-left: 5%;
+}
+
+.row{
+	margin-right: 20px;
+}
+
+#titulo-fomulario{
+	color: white;
+}
+
+#titulo-localizacao{
+	color: white;
+	text-align: center;
+}
+.btn1{
+	margin-left: 10px;
+}
+
+.textoinicio{
+
+}
+
+@media (max-width: 600px){};
+
+/*.teste{
+	margin-right: 0;
+}
+*/
